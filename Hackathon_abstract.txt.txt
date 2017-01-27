@@ -1,0 +1,31 @@
+
+AIRLINES ON-TIME PERFORMANCE - MEASUREMENT AND ANALYSIS:
+
+Abstract:
+
+	The main aim of this system is to provide the analytical report to users or retailers(Makemytrip,Cleartrip etc.,)
+about the past or present running status of the airline between the given stations. The past records of the schedules includes
+timing details,isuues about the particular airline,user reviews on any particular date selected. The current running status 
+of any particular airline can also be checked.
+
+Technical Description:
+
+	We are developing the system in Android Platform. The records mentioned above are stored in a Database. We are using
+the concepts of ORM and DAO for retrieving the contents from the Database to efficeintly fetch and display it on the Android
+app. The live running status of the airline is fed to the server live which is retrieved by the Android app instantaneously.
+
+Benefits:
+
+	The user has the advantage of booking a better airline by analysing the past records provided by the app. Also the 
+retailer who gets access to this information could have a upperhand in the market by attracting the customers with past 
+records and live status of the airlines.
+      	
+											
+												Team Members
+										
+												M. Sutharson
+												T. Inbarasan
+												C. Gowtham
+												S. Dhinesh Babu
+												K. Kishore Kumar
+												Mahalakshmi
